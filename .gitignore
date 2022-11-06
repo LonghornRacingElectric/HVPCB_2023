@@ -14,8 +14,8 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
-/HVPCB-backups/
-/ResistorNetwork-backups/
+HVPCB/HVPCB-backups/
+ResistorNetwork/ResistorNetwork-backups/
 
 # Netlist files (exported from Eeschema)
 *.net
