@@ -16,6 +16,8 @@ _autosave-*
 fp-info-cache
 HVPCB/HVPCB-backups/
 ResistorNetwork/ResistorNetwork-backups/
+/HVPCB/#auto_saved_files#
+
 
 # Netlist files (exported from Eeschema)
 *.net
