@@ -1,0 +1,39 @@
+### Module positions - created on Monday, December 12, 2022 at 12:27:18 AM ###
+### Printed by Pcbnew version (6.0.7-1)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                                      PosX       PosY       Rot  Side
+C2        10uF               C_0603_1608Metric_Pad1.08x0.95mm_HandSolder              139.0350   -84.1678  180.0000  top
+C3        2u2                C_0603_1608Metric_Pad1.08x0.95mm_HandSolder              142.8850   -84.1678    0.0000  top
+C4        100nF              C_0603_1608Metric_Pad1.08x0.95mm_HandSolder              158.2500   -84.3750  180.0000  top
+C5        100nF              C_0603_1608Metric_Pad1.08x0.95mm_HandSolder              158.2375   -96.0500  180.0000  top
+D1        _5v_ZMM5V6-M       D_MiniMELF                                                98.7000  -100.0000    0.0000  top
+J1        MicroFit_8p        Molex_Micro-Fit_3.0_43650-0800_1x08_P3.00mm_Horizontal   211.5000   -83.1000  -90.0000  top
+R1        470R               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder              156.2625   -88.2625    0.0000  top
+R4        10K                R_0603_1608Metric_Pad0.98x0.95mm_HandSolder              159.1500   -87.3625   90.0000  top
+R5        180K               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder              107.2389   -92.4870  -90.0000  top
+R6        470R               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder              156.1875   -99.9500    0.0000  top
+R7        10K                R_0603_1608Metric_Pad0.98x0.95mm_HandSolder              159.0875   -98.9500   90.0000  top
+R10       1K                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder              139.7225   -99.2766    0.0000  top
+R11       1K                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder              139.7225   -97.0766  180.0000  top
+R12       82K                R_0603_1608Metric_Pad0.98x0.95mm_HandSolder              139.7725   -94.8766    0.0000  top
+R13       2K                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder              109.1674   -90.7505   90.0000  top
+R14       2K                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder              108.2448   -87.7252  180.0000  top
+R15       1K                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder              108.2549   -85.5752    0.0000  top
+R16       10M                R_0603_1608Metric_Pad0.98x0.95mm_HandSolder               97.2198   -96.2505  -90.0000  top
+R17       200K               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder               99.8822   -97.1505    0.0000  top
+R18       470R               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder              109.1198   -95.6505  -90.0000  top
+R19       470R               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder              104.0958  -103.7752  -90.0000  top
+R20       10K                R_0603_1608Metric_Pad0.98x0.95mm_HandSolder              127.2747  -112.2614   90.0000  top
+S2        KAQY414S           SOP-4_L3.9-W4.4-P2.54-LS7.0-BR                           121.3500  -109.9500  180.0000  top
+U1        NE555DR_C695838    SOP-8_L5.0-W4.0-P1.27-LS6.0-BL                           141.3500   -89.5500    0.0000  top
+U2        SN74LVC1GU04DBVR   SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR                        144.6850   -95.8678    0.0000  top
+U3        PDSE1-S5-D5-M-TR_  CUI_Isolated_DC-DC                                       126.3300   -89.2000  180.0000  top
+U4        LM392MX            SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL                          101.5949   -91.1650   90.0000  top
+U5        AO3400A            SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR                        162.8375   -99.0125  180.0000  top
+U6        AO3400A            SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR                        163.0120   -87.4270  180.0000  top
+U7        KT-0603R           LED0603-R-RD                                             105.1958   -96.7752  180.0000  top
+U8        KT-0603R           LED0603-R-RD                                             155.4465   -85.2865  -90.0000  top
+U9        KT-0603R           LED0603-R-RD                                             155.3375   -96.9500  -90.0000  top
+U14       Micro_Fit_2P       CONN-TH_43045-0200                                        82.4635   -93.8000  -90.0000  top
+## End
