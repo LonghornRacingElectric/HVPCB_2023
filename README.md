@@ -1,7 +1,7 @@
 # 2023 HVPCB
 
 <p>
-    <img src="./HVPCB/HVPCB_IMAGE.png" width="400" height="auto" />
+    <img src="./HVPCB/HVPCB_IMAGE.png" width="500" height="auto" />
 </p>
 
 ### HVPCB Board
