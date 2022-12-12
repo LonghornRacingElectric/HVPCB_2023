@@ -1,6 +1,6 @@
 # 2023 HVPCB
 
-![HVPCB Image](https://github.com/LonghornRacingElectric/HVPCB_2023/tree/main/HVPCB/HVPCB_IMAGE.png?raw=true)
+![HVPCB Image](./HVPCB/HVPCB_IMAGE.png)
 
 ### HVPCB Board
 
