@@ -1,0 +1,24 @@
+### Module positions - created on Sunday, December 11, 2022 at 09:37:31 PM ###
+### Printed by Pcbnew version (6.0.7-1)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                                      PosX       PosY       Rot  Side
+J1        Conn_01x02_Female  Molex_Micro-Fit_3.0_43045-0200_2x01_P3.00mm_Horizontal   128.9250   -47.1200  -90.0000  top
+J2        Conn_01x02_Female  Molex_Micro-Fit_3.0_43045-0200_2x01_P3.00mm_Horizontal   129.1650   -59.2500  -90.0000  top
+J3        Conn_01x02_Female  Molex_Micro-Fit_3.0_43045-0200_2x01_P3.00mm_Horizontal    33.5850   -53.0000   90.0000  top
+K1        DBR72410           DBT70510U                                                 97.4000   -68.7250  180.0000  top
+R1        470R               TO-263-2_TabPin1                                          49.0440   -49.2450  -90.0000  top
+R2        470R               TO-263-2_TabPin1                                          46.2850   -37.1200   90.0000  top
+R3        470R               TO-263-2_TabPin1                                          62.5060   -49.2450  -90.0000  top
+R4        470R               TO-263-2_TabPin1                                          59.7470   -37.1200   90.0000  top
+R5        470R               TO-263-2_TabPin1                                          75.9680   -49.2450  -90.0000  top
+R6        470R               TO-263-2_TabPin1                                          73.2090   -37.1200   90.0000  top
+R7        470R               TO-263-2_TabPin1                                          89.4300   -49.2450  -90.0000  top
+R8        470R               TO-263-2_TabPin1                                          86.6710   -37.1200   90.0000  top
+R9        470R               TO-263-2_TabPin1                                         102.8920   -49.2450  -90.0000  top
+R10       470R               TO-263-2_TabPin1                                         100.1330   -37.1200   90.0000  top
+R11       470R               TO-263-2_TabPin1                                         116.1050   -49.2450  -90.0000  top
+R12       470R               TO-263-2_TabPin1                                         113.5950   -37.1200   90.0000  top
+R13       R                  3550_Resistor_TE                                         116.3550   -59.2950  -90.0000  top
+R14       R                  3550_Resistor_TE                                         108.3550   -59.2950  -90.0000  top
+## End
