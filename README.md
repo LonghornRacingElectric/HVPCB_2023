@@ -1,11 +1,11 @@
 # 2023 HVPCB
 
 <p>
-    <img src="./HVPCB/HVPCB_IMAGE.png" width="220" height="auto" />
+    <img src="./HVPCB/HVPCB_IMAGE.png" width="400" height="auto" />
 </p>
 
 ### HVPCB Board
 
 #### 2023 Longhorn Racing Electric
 
-#### UPDATED: 12/12/2022 - Robert Kirk
+UPDATED: 12/12/2022 - Robert Kirk
