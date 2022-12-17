@@ -1,3 +1,4 @@
+﻿HVPCB BOM,,,,,,,,,,,,
 Id,NOTES,Name,Designator,Footprint,Quantity,MFR. Part #,Manufacturer,Supplier,Classification,Supplier Part #,Price,Total $ USD
 1,,10uF 0603,C2,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2,CL10A106MQ8NNNC,SAMSUNG,LCSC,BASIC,C1691,$0.005,$0.01
 2,,2u2 0603,C3,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,CL10A225KO8NNNC,SAMSUNG,LCSC,BASIC,C23630,$0.005,$0.01
@@ -17,6 +18,9 @@ Id,NOTES,Name,Designator,Footprint,Quantity,MFR. Part #,Manufacturer,Supplier,Cl
 16,,LM392MX COMP.,U4,SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL,1,LM392MX,TI,LCSC,EXTENDED,C7954,$0.874,$0.88
 17,,SN74LVC1GU04DBVR Inverter,U2,SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR,1,SN74LVC1GU04DBVR,TI,LCSC,EXTENDED,C81934,$0.103,$0.11
 18,,NE555DR_C695838 Timer,U1,SOP-8_L5.0-W4.0-P1.27-LS6.0-BL,1,NE555DR,"UMW(Youtai Semiconductor Co., Ltd.)",LCSC,EXTENDED,C695838,$0.077,$0.08
-19,DNF,PDSE1-S5-D5-M-TR Isolated DCDC,U3,CUI Isolated DC-DC,1,PDSE1-S5-D5-M-TR,CUI,Mouser,EXTERNAL,490-PDSE1-S5-D5-M-TR,$3.870,$3.87
-20,DNF,MicroFit_8p THT,J1,Molex_Micro-Fit_3.0_43650-0800_1x08_P3.00mm_Horizontal,1,MicroFit_8p,Molex,,EXTERNAL,,,$0.00
-21,DNF,Micro Fit 2P,U14,CONN-TH_43045-0200,1,Micro Fit 2P,Molex,,EXTERNAL,,,$0.00
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

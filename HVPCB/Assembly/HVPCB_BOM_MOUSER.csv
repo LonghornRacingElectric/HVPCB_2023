@@ -1,0 +1,8 @@
+﻿HVPCB BOM (MOUSER),,,,,,,,,,,,
+Id,NOTES,Name,Designator,Footprint,Quantity,MFR. Part #,Manufacturer,Supplier,Classification,Supplier Part #,Price,Total $ USD
+19,DNF,PDSE1-S5-D5-M-TR Isolated DCDC,U3,CUI Isolated DC-DC,1,PDSE1-S5-D5-M-TR,CUI,Mouser,EXTERNAL,490-PDSE1-S5-D5-M-TR,$3.870,$3.87
+20,DNF,MicroFit_8p THT,J1,Molex_Micro-Fit_3.0_43650-0800_1x08_P3.00mm_Horizontal,1,MicroFit_8p,Molex,,EXTERNAL,,,$0.00
+21,DNF,Micro Fit 2P,U14,CONN-TH_43045-0200,1,Micro Fit 2P,Molex,,EXTERNAL,,,$0.00
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,a,,,,,,,,,
